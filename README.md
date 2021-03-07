@@ -29,8 +29,8 @@ This repository uses the
 branching model by [Vincent Driessen](https://nvie.com/about/).
 It has two branches with infinite lifetime:
 
-* [master](https://github.com/MichaelSasser/i3blocks-memory/tree/master)
-* [develop](https://github.com/MichaelSasser/i3blocks-memory/tree/develop)
+* [master](https://github.com/MichaelSasser/i3blocks_memory/tree/master)
+* [develop](https://github.com/MichaelSasser/i3blocks_memory/tree/develop)
 
 The master branch gets updated on every release. The develop branch is the
 merging branch.
