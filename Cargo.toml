@@ -1,0 +1,16 @@
+[package]
+name = "i3blocks_memory"
+version = "0.1.0"
+authors = ["Michael Sasser <Michael@MichaelSasser.org>"]
+edition = "2018"
+description = "Show the memory status in swaybar/i3bar"
+repository = "https://github.com/MichaelSasser/nwstate/"
+license = "GPL-3.0-or-later"
+keywords = ["network", "sway", "swaybar", "i3bar", "i3"]
+categories = ["visualization"]
+publish = false
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1"
